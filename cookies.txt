@@ -1,0 +1,4 @@
+yt-remote-cast-available:0
+yt-remote-connected-devices: 
+...
+YT-REMOTE_SESSION: <Your session cookie>
