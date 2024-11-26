@@ -1,4 +1,4 @@
-pyrogram==2.0.10
-yt-dlp==2024.11
-tgcrypta==0.2.0
-python-dotenv==1.0.0
+pip install pyrogram==2.0.10
+pip install yt-dlp==2024.11
+pip install tgcrypta==0.2.0
+pip install python-dotenv==1.0.0
